@@ -1,5 +1,8 @@
-body{
-    color: deeppink;
-    text-align: center;
-    font-family: "Arial";
+.header{
+    background-color: deepskyblue;
+}
+
+.footer{
+    background-color: black;
+    color: white;
 }
