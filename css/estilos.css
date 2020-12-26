@@ -1,5 +1,8 @@
 .header{
     background-color: deepskyblue;
+    border-color: black;
+    border-style: solid;
+    padding: 10%;
 }
 
 .footer{
