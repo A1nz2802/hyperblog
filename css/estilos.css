@@ -3,6 +3,9 @@
 }
 
 .footer{
-    background-color: black;
+    background-color: red;
     color: white;
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
 }
